@@ -1,0 +1,4 @@
+[submodule "lojagas-projects-002"]
+	path = lojagas-projects-002
+	url = git@gitlab.com:yusniermatos/lojagas-projects-002.git
+	branch = main
